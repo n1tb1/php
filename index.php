@@ -20,6 +20,7 @@ var_dump((int)0 === (int)'hello, world'); // Почему true?
   $title = "Тестовая страница";
   $h1 = "Тестовый заголовок";
   $year = date("Y");
+  
 ?>
 
 <!DOCTYPE html>
